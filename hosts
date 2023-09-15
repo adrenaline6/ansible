@@ -1,0 +1,2 @@
+[servers]
+34.28.4.240 ansible_python_interpreter=/usr/bin/python3
